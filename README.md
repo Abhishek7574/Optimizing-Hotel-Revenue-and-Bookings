@@ -62,4 +62,4 @@ This project provides a detailed analysis of hotel performance metrics, offering
 
 ## Contact
 
-For any questions or further information, please contact [mauryaadarsh975@gmail.com].
+For any questions or further information, please contact [abhishekchaudhary7573@gmail.com].
